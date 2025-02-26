@@ -16,8 +16,8 @@
 
 <h2 align="left">🛠️ Stats</h2>
 <div style="display: flex; justify-content: space-between">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rivasofi&theme=radical&show_icons=true&hide_border=true&layout=compact" alt="rivasofi's Top Languages" width="39%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rivasofi&theme=radical&show_icons=true&hide_border=true" alt="rivasofi" width="46%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rivasofi&theme=omni&show_icons=true&hide_border=true&layout=compact" alt="rivasofi's Top Languages" width="38%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=rivasofi&theme=omni&show_icons=true&hide_border=true&count_private=true" width="50%" />
   <p align="left"> <img src="https://komarev.com/ghpvc/?username=rivasofi&label=Profile%20views&color=0e75b6&style=flat" alt="rivasofi" /> </p>
   <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rivasofi" alt="rivasofi" /></a> </p>
 </div>
