@@ -44,14 +44,15 @@
 <h2 align="left">💬 Connect with me</h2>
 <a href="https://instagram.com/soofirivas" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="soofirivas" height="30" width="40" /></a>
 <a href="mailto:sofiarivass106@gmail.com" target="blank">
-  <img align="center" src="https://img.icons8.com/ios_filled/512/F25081/gmail.png" height="34" width="40" />
+  <img align="center" src="https://cdn-icons-png.flaticon.com/512/1334/1334869.png" height="34" width="40" />
 </a>
 
 <h2 align="left">🛠️ Stats</h2>
-<div style="display: flex; justify-content: space-between">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rivasofi&theme=omni&show_icons=true&hide_border=true&layout=compact" alt="rivasofi's Top Languages" width="38%" />
-  <img src="https://github-readme-stats.vercel.app/api?username=rivasofi&theme=omni&show_icons=true&hide_border=true&count_private=true" width="50%" />
-  <p align="left"> <img src="https://komarev.com/ghpvc/?username=rivasofi&label=Profile%20views&color=0e75b6&style=flat" alt="rivasofi" /> </p>
-  <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rivasofi" alt="rivasofi" /></a> </p>
-  ![Snake animation](https://raw.githubusercontent.com/rivasofi/rivasofi/output/github-contribution-grid-snake-dark.svg)
+<div style="display: flex; flex-wrap: wrap; justify-content: space-between; gap: 10px;">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rivasofi&theme=jolly&show_icons=true&hide_border=true&layout=compact" alt="rivasofi's Top Languages" width="38%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=rivasofi&theme=jolly&show_icons=true&hide_border=true&count_private=true" width="50%" />
 </div>
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=rivasofi&label=Profile%20views&color=0e75b6&style=flat" alt="rivasofi" /> </p>
+
+![Snake animation](https://raw.githubusercontent.com/rivasofi/rivasofi/output/github-contribution-grid-snake-dark.svg)
