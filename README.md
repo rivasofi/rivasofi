@@ -1,4 +1,4 @@
-<h1 align="center">Hi there! 🫧 I'm Sofi</h1>
+<h1 align="center">Hi there! 🎧 I'm Sofi</h1>
 
 <p align="center">
   <b>Informatics Engineering student at FIUBA (University of Buenos Aires) 🇦🇷</b><br>
@@ -63,13 +63,17 @@
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
 ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat&logo=sqlite&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
-
-A **freelancer platform** built for the *Information Systems Development Management* course (FIUBA, 1C26), built as a team of six.
-
-- Full-stack app: **Next.js** frontend and **FastAPI** backend with a **SQLite** database
-- Interactive API documentation served by FastAPI
-- Runs locally or fully containerized with **Docker Compose**
-- Collaborative development with 400+ commits and pull-request based workflow
+![Claude API](https://img.shields.io/badge/Claude%20API-D97757?style=flat&logo=anthropic&logoColor=white)
+ 
+A **freelance management platform with a built-in AI assistant**, built for the *Information Systems Development Management* course (FIUBA, 1C26). It brings everything a freelancer needs into one place: projects, clients, tasks, time tracking, finances and budgets.
+ 
+**🤖 AI assistant powered by Claude (Anthropic)**
+- Chat assistant for questions and suggestions
+- Takes the **expenses uploaded by the freelancer** into account to **suggest rates** and calculate **budgets based on real costs**
+**🔗 Client portal**
+- Freelancers can generate **read-only, shareable links (token-based)** so clients can follow project progress and review budgets and rates
+**Main features:** Dashboard · Projects · Clients · Kanban tasks · Time tracking · Finances · Budgets · Reports (cash flow & profitability per project) · Notifications · Settings
+**Under the hood:** Next.js frontend, FastAPI backend with interactive API docs, SQLite database, and Docker Compose for containerized setups. Developed collaboratively with 400+ commits and a pull-request based workflow.
 
 ---
 
